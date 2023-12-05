@@ -1,13 +1,18 @@
 # IP Addresses, DNS, and Browsers
 
-Understanding how IP addresses and DNS work is key to understanding how the internet operates.
+Understanding IP addresses and DNS is crucial for grasping how the internet connects different devices.
 
 ## IP Addresses and DNS
-- **IP Address**: It's like your home address but for computers.
-- **DNS**: Translates domain names into IP addresses.
+- **IP Address**: A unique string of numbers separated by periods, assigned to each device connected to the internet.
+- **Domain Name System (DNS)**: Translates human-friendly domain names into IP addresses.
 
-## Web Browsers
-Browsers are the tools we use to view the web.
+## How Browsers Use IP Addresses and DNS
+- When you type a URL, the browser requests the IP address from a DNS server.
+- The browser then uses the IP address to retrieve the website's data.
+
+## Web Browsers: Our Gateway to the Internet
+- Browsers interpret and display web pages from the data they receive.
+- They support various web technologies like HTML, CSS, and JavaScript.
 
 [Previous: Introduction to the Internet and Web Protocols](Webintro.md)
 
