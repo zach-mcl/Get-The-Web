@@ -9,6 +9,6 @@ A beginner-friendly guide to understanding how the internet works, focusing on w
 Anyone curious about the basic workings of the internet.
 
 ## Contents
-1. [Introduction to the Internet and Web Protocols](link-to-page-1.md)
+1. [Introduction to the Internet and Web Protocols](Webintro.md)
 2. [IP Addresses, DNS, and Browsers](link-to-page-2.md)
 3. [Servers and Secure Web Browsing](link-to-page-3.md)
