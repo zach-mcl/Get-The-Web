@@ -10,5 +10,5 @@ Anyone curious about the basic workings of the internet.
 
 ## Contents
 1. [Introduction to the Internet and Web Protocols](Webintro.md)
-2. [IP Addresses, DNS, and Browsers](link-to-page-2.md)
-3. [Servers and Secure Web Browsing](link-to-page-3.md)
+2. [IP Addresses, DNS, and Browsers](IP-DNS&Browser.md)
+3. [Servers and Secure Web Browsing](Severs&Browsing.md)
