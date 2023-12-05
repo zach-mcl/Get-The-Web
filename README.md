@@ -3,11 +3,10 @@
 **Author**: Zach Mclean
 
 ## Summary
-A beginner-friendly guide to understanding how the internet works, focusing on web protocols, internet connectivity, and the roles of browsers and servers.
+A comprehensive, beginner-friendly guide to the essentials of internet connectivity, web protocols, and secure browsing, perfect for anyone looking to grasp how the internet works.
 
 ## Target Audience
-Anyone curious about the basic workings of the internet. 
-Targeted for people with little to no experience 
+Designed for individuals with minimal technical background who are curious about the inner workings of the internet.
 
 ## Contents
 1. [Introduction to the Internet and Web Protocols](Webintro.md)
