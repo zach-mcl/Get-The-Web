@@ -29,6 +29,5 @@ Imagine the internet as a postal system where...
 
 - **Browsers as Mail Carriers**: Just like mail carriers deliver letters to your doorstep, web browsers retrieve the website data from servers and display it on your screen.
 
-This analogy simplifies the complex processes of the internet, making it easier to understand how different elements like IP addresses, web protocols, and browsers work together to allow us to access and interact with websites.
 
 [Next: IP Addresses, DNS, and Browsers](IP-DNS&Browser.md)
