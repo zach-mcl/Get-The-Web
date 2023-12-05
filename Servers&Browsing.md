@@ -1,17 +1,30 @@
 # Servers and Secure Web Browsing
 
-Learn about the role of servers in hosting web content and the importance of secure web browsing.
+A closer look at the servers that host and deliver web content and the importance of secure connections.
 
-## Understanding Servers
-- A server is a computer designed to process requests and deliver data to other computers over the internet.
-- Types of servers include Web, Application, and Database servers.
+## Servers: The Powerhouses of the Internet
+- Servers are powerful computers that store, process, and deliver web content.
+- They respond to requests from browsers to access websites.
+
+### Different Types of Servers
+- **Web Server**: Stores web pages and media content.
+- **Application Server**: Hosts and runs specific software applications.
+- **Database Server**: Stores and manages data.
+
+## Web Hosting
+- Websites are hosted on servers, making them accessible over the internet.
+- Hosting varies from shared environments to dedicated servers.
 
 ## The Importance of Secure Browsing
-- Secure browsing is crucial for protecting sensitive data.
-- HTTPS encrypts data sent between your browser and the server.
+- Web security is vital to protect data and privacy.
+- HTTPS (HTTP Secure) encrypts the connection between your browser and the server.
 
-## How These Components Work Together
-- When you visit a website, your browser sends a request to the server hosting the site.
-- The server processes this request and sends back the data, which your browser then displays.
+### How HTTPS Works
+- Encrypts data sent and received, making it difficult for hackers to intercept.
+- Uses SSL/TLS protocols for secure communication.
+
+## The Role of Certificates
+- Websites use SSL/TLS certificates to verify their identity.
+- Browsers check these certificates to ensure a website's authenticity.
 
 [Previous: IP Addresses, DNS, and Browsers](IP-DNS&Browser.md)
