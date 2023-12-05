@@ -9,4 +9,4 @@ The internet is a global network of computers connected to each other, allowing 
 ## Real-world Analogy
 Imagine the internet as a postal system...
 
-[Next: IP Addresses, DNS, and Browsers](link-to-page-2.md)
+[Next: IP Addresses, DNS, and Browsers](IP-DNS%Browser.md)
